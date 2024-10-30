@@ -19,8 +19,8 @@
 ## 📬 Let’s Connect!
 
 - 🤝 Open to collaborations on programming projects  
-- 📧 Reach me at [matimadoery@hotmail.com](mailto:matimadoer@hotmail.com)  
-- 🔗 Follow me on [LinkedIn](www.linkedin.com/in/matias-madoery-b365ba237)
+- 📧 Reach me at [matimadoery@hotmail.com](mailto:matimadoery@hotmail.com)  
+- 🔗 Follow me on [LinkedIn](https://www.linkedin.com/in/matias-madoery-b365ba237)
 
 ---
 
