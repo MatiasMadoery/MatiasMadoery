@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 💻 **Full Stack Developer in Progress** | **Backend Enthusiast**
-- 👨‍🎓 **Technician in Programming** - UTN San Francisco, Còrdoba, Argentina
+- 👨‍🎓 **Technician in Programming** - UTN San Francisco, Córdoba, Argentina
 - 🎓 Continuously learning and improving, driven by curiosity and self-motivation  
 - 🌱 Always up for a challenge and exploring the latest in technology
 
